@@ -10,3 +10,9 @@ body{
   line-height: 18px;
 }
 
+.footer-wrap{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
